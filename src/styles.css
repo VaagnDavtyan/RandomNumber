@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+padding: 5px;
+}
+
+input{
+width: 200px;
+height: 20px;
+}
+button{
+margin: 10px
+}
